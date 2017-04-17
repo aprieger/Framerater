@@ -1,0 +1,31 @@
+C:\Users\Aaron\Dropbox\Programming Projects\Framerater\Framerater\Framerater\bin\Debug\Framerater.exe.config
+C:\Users\Aaron\Dropbox\Programming Projects\Framerater\Framerater\Framerater\bin\Debug\Framerater.exe
+C:\Users\Aaron\Dropbox\Programming Projects\Framerater\Framerater\Framerater\bin\Debug\Framerater.pdb
+C:\Users\Aaron\Dropbox\Programming Projects\Framerater\Framerater\Framerater\obj\Debug\Framerater.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Dropbox\Programming Projects\Framerater\Framerater\Framerater\obj\Debug\MainWindow.g.cs
+C:\Users\Aaron\Dropbox\Programming Projects\Framerater\Framerater\Framerater\obj\Debug\App.g.cs
+C:\Users\Aaron\Dropbox\Programming Projects\Framerater\Framerater\Framerater\obj\Debug\Framerater_MarkupCompile.cache
+C:\Users\Aaron\Dropbox\Programming Projects\Framerater\Framerater\Framerater\obj\Debug\Framerater_MarkupCompile.lref
+C:\Users\Aaron\Dropbox\Programming Projects\Framerater\Framerater\Framerater\obj\Debug\MainWindow.baml
+C:\Users\Aaron\Dropbox\Programming Projects\Framerater\Framerater\Framerater\obj\Debug\Framerater.g.resources
+C:\Users\Aaron\Dropbox\Programming Projects\Framerater\Framerater\Framerater\obj\Debug\Framerater.Properties.Resources.resources
+C:\Users\Aaron\Dropbox\Programming Projects\Framerater\Framerater\Framerater\obj\Debug\Framerater.csproj.GenerateResource.Cache
+C:\Users\Aaron\Dropbox\Programming Projects\Framerater\Framerater\Framerater\obj\Debug\Framerater.exe
+C:\Users\Aaron\Dropbox\Programming Projects\Framerater\Framerater\Framerater\obj\Debug\Framerater.pdb
+C:\Users\aprie\Dropbox\Programming Projects\Framerater\Framerater\Framerater\bin\Debug\Framerater.exe.config
+C:\Users\aprie\Dropbox\Programming Projects\Framerater\Framerater\Framerater\obj\Debug\Framerater.exe
+C:\Users\aprie\Dropbox\Programming Projects\Framerater\Framerater\Framerater\obj\Debug\Framerater.pdb
+C:\Users\aprie\Dropbox\Programming Projects\Framerater\Framerater\Framerater\bin\Debug\Framerater.exe
+C:\Users\aprie\Dropbox\Programming Projects\Framerater\Framerater\Framerater\bin\Debug\Framerater.pdb
+C:\Users\aprie\Dropbox\Programming Projects\Framerater\Framerater\Framerater\obj\Debug\Framerater.csprojResolveAssemblyReference.cache
+C:\Users\aprie\Dropbox\Programming Projects\Framerater\Framerater\Framerater\obj\Debug\MainWindow.g.cs
+C:\Users\aprie\Dropbox\Programming Projects\Framerater\Framerater\Framerater\obj\Debug\App.g.cs
+C:\Users\aprie\Dropbox\Programming Projects\Framerater\Framerater\Framerater\obj\Debug\Framerater_MarkupCompile.cache
+C:\Users\aprie\Dropbox\Programming Projects\Framerater\Framerater\Framerater\obj\Debug\Framerater_MarkupCompile.lref
+C:\Users\aprie\Dropbox\Programming Projects\Framerater\Framerater\Framerater\obj\Debug\MainWindow.baml
+C:\Users\aprie\Dropbox\Programming Projects\Framerater\Framerater\Framerater\obj\Debug\Framerater.g.resources
+C:\Users\aprie\Dropbox\Programming Projects\Framerater\Framerater\Framerater\obj\Debug\Framerater.Properties.Resources.resources
+C:\Users\aprie\Dropbox\Programming Projects\Framerater\Framerater\Framerater\obj\Debug\Framerater.csproj.GenerateResource.Cache
+C:\Users\aprie\Dropbox\Programming Projects\Framerater\Framerater\Framerater\bin\Debug\Fonts\orange juice 2.0.ttf
+C:\Users\aprie\Dropbox\Programming Projects\Framerater\Framerater\Framerater\obj\Debug\Framerater_Content.g.cs
+C:\Users\aprie\Dropbox\Programming Projects\Framerater\Framerater\Framerater\bin\Debug\Fonts\Quick Frog.ttf
